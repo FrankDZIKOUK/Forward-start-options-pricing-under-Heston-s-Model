@@ -12,7 +12,7 @@ The main goals of the project are:
 
 - Derive a **closed-form expression** for the price of forward-start options at any time under the Heston model using **Fourier transform techniques** and **characteristic functions**.
 - Obtain **explicit analytical expressions** for hedging strategies within a **quadratic hedging framework**.
-- Assess the **numerical performance** of the Ivi and Quadratic Exponential (QE) discretization schemes when applied to forward-start options.
+- Assess the **performance** of the Ivi and Quadratic Exponential (QE) discretization schemes when applied to forward-start options.
 - Implement **Monte Carlo simulations** for pricing and hedging in Python.
 
 ## Methodology
